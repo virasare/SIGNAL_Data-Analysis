@@ -9,6 +9,9 @@ Visualisasi berikut merupakan hasil analisis dari survei pengguna aplikasi SIGNA
 
 > 📌 *Catatan: Gambar di atas merupakan representasi dari hasil survei pengguna terkait pengalaman dan kepuasan terhadap fitur-fitur yang tersedia di aplikasi SIGNAL.*
 
+🔗 **Lihat versi interaktif di Tableau Public:**  
+[Klik di sini untuk membuka visualisasi interaktif](https://public.tableau.com/views/SurveyKepuasanPenggunaAplikasiSIGNAL/SurveyPengalamandanKepuasanAplikasiSIGNAL?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 ---
 
 ### ✨ Insight Singkat:
@@ -16,4 +19,4 @@ Visualisasi berikut merupakan hasil analisis dari survei pengguna aplikasi SIGNA
 - Faktor yang paling berpengaruh terhadap kepuasan pengguna adalah **kemudahan navigasi** dan **kecepatan layanan**.
 - Beberapa aspek seperti **respons customer service** masih memiliki ruang untuk perbaikan.
 
-📁 *File Tableau tersedia dalam dalam bentuk PNG. Versi interaktif dapat dilihat melalui Tableau Public.*
+📁 *File Tableau tersedia dalam bentuk PNG. Versi interaktif dapat dilihat melalui tautan di atas.*
