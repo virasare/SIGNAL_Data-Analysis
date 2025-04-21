@@ -5,7 +5,7 @@
 
 Visualisasi berikut merupakan hasil analisis dari survei pengguna aplikasi SIGNAL. Analisis ini dilakukan untuk memahami tingkat kepuasan pengguna dan faktor-faktor yang mempengaruhinya. Visualisasi dibuat menggunakan Tableau untuk menampilkan informasi secara interaktif dan mudah dipahami.
 
-![Visualisasi Survei SIGNAL](assets/images/Survey%20Pengalaman%20dan%20Kepuasan%20Aplikasi%20SIGNAL.png)
+![Visualisasi Survei Kepuasan Pengguna Aplikasi SIGNAL](Survey%20Pengalaman%20dan%20Kepuasan%20Aplikasi%20SIGNAL.png)
 
 > 📌 *Catatan: Gambar di atas merupakan representasi dari hasil survei pengguna terkait pengalaman dan kepuasan terhadap fitur-fitur yang tersedia di aplikasi SIGNAL.*
 
